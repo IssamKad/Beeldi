@@ -1,0 +1,40 @@
+.container {
+  margin-top: 2rem;
+}
+
+.card {
+  margin-bottom: 2rem;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card-title {
+  margin-bottom: 1rem;
+}
+
+.card-text {
+  margin-bottom: 0.5rem;
+}
+
+.card-body img {
+  margin-top: 1rem;
+}
+
+.checkpoint-list {
+  list-style: none!important;
+  padding: 0!important;
+}
+
+.checkpoint-list li {
+  text-align: left!important;
+  margin-bottom: 0.5rem!important;
+  display: flex!important;
+  flex-direction: column!important;
+}
+
+.checkpoint-list li span {
+  display: inline-block!important;
+}
+
+.align-left {
+  text-align: left !important;
+}
